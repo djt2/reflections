@@ -24,4 +24,9 @@ The diagrams clearly explains how git uses the branch structure. A branch can be
 possible for multiple people to work on the same code to improve different features.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging incorporates changes in both the branches into one branch .
-The diagram helps us understand the reach and linkability of each commit and lets us understand clearly. 
+The diagram helps us understand the reach and linkability of each commit and lets us understand clearly.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually? 
+Automatic merging is useful when there is no conflict between two to-be merged parts.
+But when there is a conflict between merged parts auto merge can create weird problems that will
+be very difficult to understand later. Here manual commit helps.
