@@ -17,3 +17,8 @@ What are some situations when branches would be helpful in keeping your history 
 When I want to create a new version of the game introducing a new logical change based on previous
 version but want to keep the main file intact. The branches would let me give more flexibility to experiment on the coding
 while I can still change the main code on a separate branch.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams clearly explains how git uses the branch structure. A branch can be unreachable from another branch and that makes it 
+possible for multiple people to work on the same code to improve different features.
