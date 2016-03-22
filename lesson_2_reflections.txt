@@ -22,3 +22,6 @@ How do the diagrams help you visualize the branch structure?
 
 The diagrams clearly explains how git uses the branch structure. A branch can be unreachable from another branch and that makes it 
 possible for multiple people to work on the same code to improve different features.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging incorporates changes in both the branches into one branch .
+The diagram helps us understand the reach and linkability of each commit and lets us understand clearly. 
