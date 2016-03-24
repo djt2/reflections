@@ -5,3 +5,9 @@ stay up-to-date with your remote repository?
 My repository is public. So anyone can contribute to it. If someone else updates
 my repository I might not want to include that to my repository or it might affect my code
 as everyone operates with their own logic
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+When I want to copy someone else's remote on github to my account,I use fork.
+Copying from my remote to my local repository is called cloning.
+Branches are useful for parallel or experimental development of same code.
