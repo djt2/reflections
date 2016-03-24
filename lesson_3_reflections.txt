@@ -17,3 +17,6 @@ When there is update on remote as well as local we can see
 what the conflict is between the two and resolve it
 before we push the updated changes that icorporates both the changes 
 to the remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Using github would be much easier
