@@ -20,3 +20,9 @@ to the remote.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Using github would be much easier
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When more than one people working on a same code ,we should opt for new branche
+ to add thosechanges so that they don't interfere with other's codes. After that
+ we should check and compare with other collaborator's codes to incorporate into 
+ the master.
